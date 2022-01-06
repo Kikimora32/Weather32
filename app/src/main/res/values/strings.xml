@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather32</string>
+    <string name="main_text">Температура в вашем городе</string>
+    <string name="user_field">Введите город</string>
+    <string name="main_button">Узнать температуру</string>
+    <string name="no_input">Введите текст</string>
+</resources>
